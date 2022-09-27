@@ -1,0 +1,27 @@
+body {
+  line-height: 1;
+  background-color: #B7C4CF;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 14px
+}
+
+img {
+  max-width: 300px;
+  height: auto;
+}
+
+.main {
+  border-style: solid;
+  border-radius: 15px;
+  border-color: #B7C4CF;
+  width: 19rem;
+  background: #EEE3CB;
+  padding: 20px 20px;
+  margin: 7% auto;
+}
+
+.text {
+  width: 20rem;
+  margin: 1rem auto;
+}
